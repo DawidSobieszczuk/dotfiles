@@ -1,0 +1,44 @@
+scrolling:
+  history: 10000
+  multiplier: 3
+font:
+  normal:
+    family: UbuntuMono
+    style: Regular
+  bold:
+    family: UbuntuMono
+    style: Bold
+  italic:
+    family: UbuntuMono
+    style: Italic
+  size: 7
+
+# Colors
+colors:
+  # Default colors
+  primary:
+    background: '#1e1e1e'
+    foreground: '#f8f8f2'
+
+  # Normal colors
+  normal:
+    black:   '#000000'
+    red:     '#ff5555'
+    green:   '#23d18b'
+    yellow:  '#f1fa8c'
+    blue:    '#3b8eea'
+    magenta: '#ff79c6'
+    cyan:    '#8be9fd'
+    white:   '#bfbfbf'
+
+  # Bright colors
+  bright:
+    black:   '#575b70'
+    red:     '#ff6e67'
+    green:   '#5af78e'
+    yellow:  '#f4f99d'
+    blue:    '#caa9fa'
+    magenta: '#ff92d0'
+    cyan:    '#9aedfe'
+    white:   '#e6e6e6'
+
